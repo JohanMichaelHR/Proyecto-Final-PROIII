@@ -1,0 +1,11 @@
+Objective of the test: Verify that a registered user can log in successfully on Netflix, select the 'Johan' profile, and view the details of any content from the homepage.
+Step '01_open_netflix' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_05\01_open_netflix.png
+Step '02_navigate_to_login' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_05\02_navigate_to_login.png
+Step '03_enter_email' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_05\03_enter_email.png
+Step '04_enter_password' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_05\04_enter_password.png
+Step '05_click_login' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_05\05_click_login.png
+Step '06_profiles_page' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_05\06_profiles_page.png
+Step '07_select_johan_profile' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_05\07_select_johan_profile.png
+Step '08_main_content_page' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_05\08_main_content_page.png
+Step '09_select_random_content' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_05\09_select_random_content.png
+Step '10_content_details_page' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_05\10_content_details_page.png

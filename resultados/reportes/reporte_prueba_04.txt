@@ -1,0 +1,41 @@
+Objective of the test: Verify that a registered user can log in successfully on Netflix, select the 'Johan' profile, and start playback of any available content.
+Step '01_open_netflix' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_04\01_open_netflix.png
+Step '02_navigate_to_login' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_04\02_navigate_to_login.png
+Step '03_enter_email' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_04\03_enter_email.png
+Step '04_enter_password' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_04\04_enter_password.png
+Step '05_click_login' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_04\05_click_login.png
+Step '06_profiles_page' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_04\06_profiles_page.png
+Step '07_select_johan_profile' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_04\07_select_johan_profile.png
+Step '08_main_content_page' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_04\08_main_content_page.png
+Step '09_select_random_content' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_04\09_select_random_content.png
+Step '10_content_details_page' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_04\10_content_details_page.png
+An error occurred during automation: Message: element click intercepted: Element <button class="color-primary hasLabel hasIcon ltr-podnco" tabindex="-1" type="button">...</button> is not clickable at point (111, 351). Other element would receive the click: <div class="previewModal--player-titleTreatmentWrapper" style="opacity: 1;">...</div>
+  (Session info: chrome=127.0.6533.100)
+Stacktrace:
+	GetHandleVerifier [0x00608923+23283]
+	(No symbol) [0x005CE934]
+	(No symbol) [0x00500733]
+	(No symbol) [0x005491C7]
+	(No symbol) [0x005475D9]
+	(No symbol) [0x005454CB]
+	(No symbol) [0x00544AAF]
+	(No symbol) [0x005399EF]
+	(No symbol) [0x0056441C]
+	(No symbol) [0x00539485]
+	(No symbol) [0x005646B4]
+	(No symbol) [0x0057CB8D]
+	(No symbol) [0x005641B6]
+	(No symbol) [0x00538017]
+	(No symbol) [0x0053890D]
+	GetHandleVerifier [0x006FA5E3+1013683]
+	GetHandleVerifier [0x00703E3C+1052684]
+	GetHandleVerifier [0x006FD4A4+1025652]
+	GetHandleVerifier [0x0062EA2B+179195]
+	(No symbol) [0x005D6833]
+	(No symbol) [0x005D3198]
+	(No symbol) [0x005D3337]
+	(No symbol) [0x005CB4BE]
+	BaseThreadInitThunk [0x76EFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x777B80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x777B809E+238]
+

@@ -1,0 +1,12 @@
+Objective of the test: Verify that a registered user can log in successfully on Netflix, select the 'Johan' profile, and navigate to the 'Dramas' genre.
+Step '01_open_netflix' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_03\01_open_netflix.png
+Step '02_navigate_to_login' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_03\02_navigate_to_login.png
+Step '03_enter_email' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_03\03_enter_email.png
+Step '04_enter_password' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_03\04_enter_password.png
+Step '05_click_login' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_03\05_click_login.png
+Step '06_profiles_page' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_03\06_profiles_page.png
+Step '07_select_johan_profile' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_03\07_select_johan_profile.png
+Step '08_main_content_page' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_03\08_main_content_page.png
+Step '09_navigate_to_series' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_03\09_navigate_to_series.png
+Step '10_click_genres' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_03\10_click_genres.png
+Step '11_select_dramas_genre' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba_03\11_select_dramas_genre.png

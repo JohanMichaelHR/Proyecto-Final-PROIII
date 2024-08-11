@@ -1,0 +1,1 @@
+Step '01_abrir_netflix' passed, screenshot saved at c:\Users\johan\Desktop\Proyecto Final Prog 3\resultados\capturas\prueba1_abrir_netflix\01_abrir_netflix.png
